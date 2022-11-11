@@ -174,7 +174,7 @@ Distributed under the MIT Licence.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@Telegram](https://telegram.me/Pratham_vai) - [E-mail](prathammishraji@gmail.com)
+Pratham Op - [@Telegram](https://telegram.me/Pratham_vai) - [E-mail](prathammishraji@gmail.com)
 
 Project Link: [Pro Downloader](https://github.com/github_username/repo_name)
 

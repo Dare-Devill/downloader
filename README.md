@@ -110,7 +110,7 @@ When you want an app that makes it easy to save and download videos from various
 
 ### Installation
 
-1. Download the App from HERE
+1. Download the App from <a href="https://github.com/Dare-Devill/downloader/releases">HERE</a>
 2. Give the permission to install apps from unkown source
    
 3. Now Install The App (tap on install anyway if play protect ask something)
